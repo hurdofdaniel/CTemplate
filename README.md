@@ -1,4 +1,4 @@
-# {PROJECT_NAME} Template
+# {PROJECT_NAME}
 
 ## About The Project
 
